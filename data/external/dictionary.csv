@@ -1,0 +1,5 @@
+variavel,descricao,tipo,subtipo
+id,identificacao,quantitativa,discreta
+diet,dieta do animal,qualitativa,nominal
+pulse,frequencia cardiaca,quantitativa,discreta
+kind,em exercicio ou repouso,qualitativa,nominal
